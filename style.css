@@ -1,0 +1,52 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://i.idol.st/u/background/mBI4lWBackground-eGm4Xz.png");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #dc1cd9;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #dc5dd9;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 400px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+p {
+  text-align: center;
+  color: #dc1cd9;
+  text-align: center;
+  font-size: 30px;
+}
+.liellaImg {
+  height: 125px;
+}
